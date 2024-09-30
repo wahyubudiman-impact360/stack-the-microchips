@@ -88,7 +88,7 @@ var _SETTINGS = {
 	
 	'DeveloperBranding':{ // MarketJS Branding
 		'Splash':{
-			'Enabled':true,
+			'Enabled':false,
 		},
 		'Logo':{
 			'Enabled':false,
@@ -130,7 +130,7 @@ var _SETTINGS = {
 	
 	'Versioning': {
 		'Version': '1.0.0',
-		'Build': '314',
+		'Build': '315',
 
 		'DisplayLog': true,
 		'DrawVersion': true,
